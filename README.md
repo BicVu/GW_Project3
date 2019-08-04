@@ -46,9 +46,9 @@ Five Below Inc, Philadelphia, PA<br />
 Ollies Brgain Outl Hldings Inc, Harrisburg, PA<br />
 Ollies Bargain Outlet Inc, Harrisburg, PA<br />
 
-### CENSUS: 452990 - All other general merchandise stores
+#### CENSUS: 452990 - All other general merchandise stores
 
-### Changes in NAICS CODE:
+#### Changes in NAICS CODE:
 2017:
 452311 General Merchandise Stores, including Warehouse Clubs and Supercenters
 
