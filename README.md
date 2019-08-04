@@ -4,18 +4,15 @@ Final Project for GW Data Analysis 2019<br />
 
 ## DATA GUIDE
 
-<<<<<<< HEAD
-# NHANES
-=======
-### NHANES
->>>>>>> e2a02bed724daab5c602092ab7633ae46051e8bc
+#### NHANES
+
 SOURCE:
 https://wwwn.cdc.gov/nchs/nhanes/Default.aspx
 
 DOCUMENTATION:
 https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/DEMO_I.htm
 
-# DOLLAR STORES
+#### DOLLAR STORES
 PRIMARY SOURCE OF DATA:<br>
 Census American Fact Finder search for NAICS code 452990 (All Other General Marchandise Store)<br>
 Description from Census Search:<br>
