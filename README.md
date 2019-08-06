@@ -74,7 +74,8 @@ Grocery delivery services (i.e., independent service from grocery store)<br />
 Local letter and parcel delivery services (except as part of intercity courier network, U.S. Postal Service)<br />
 Messenger service
 
-# USDA Data on SNAP retailers as of June 30, 2019 (Contributor: Monica)
+# USDA Data on SNAP retailers as of June 30, 2019 
+#### (Contributor: Monica)
 * https://www.fns.usda.gov/snap/retailer-locator
 * 248,423 rows 
-*Data includes Store_Name, Longitude, Latitude, Address, Address Line #2, City, State, Zip5, Zip4, County
+* Data includes Store_Name, Longitude, Latitude, Address, Address Line #2, City, State, Zip5, Zip4, County
