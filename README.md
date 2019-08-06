@@ -75,6 +75,6 @@ Local letter and parcel delivery services (except as part of intercity courier n
 Messenger service
 
 # USDA Data on SNAP retailers as of June 30, 2019 (Contributor: Monica)
-https://www.fns.usda.gov/snap/retailer-locator
-248,423 rows 
-Data includes Store_Name, Longitude, Latitude, Address, Address Line #2, City, State, Zip5, Zip4, County
+* https://www.fns.usda.gov/snap/retailer-locator
+* 248,423 rows 
+*Data includes Store_Name, Longitude, Latitude, Address, Address Line #2, City, State, Zip5, Zip4, County
