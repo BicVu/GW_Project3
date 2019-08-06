@@ -79,3 +79,8 @@ Messenger service
 * https://www.fns.usda.gov/snap/retailer-locator
 * 248,423 rows 
 * Data includes Store_Name, Longitude, Latitude, Address, Address Line #2, City, State, Zip5, Zip4, County
+
+# Dollar Store Data Nationwide: Location and other data on SNAP authorized dollar stores (2008-2018) compiled Jerry Shannon
+#### (Contributor: Monica)
+* http://geography.uga.edu/directory/people/jerry-shannon
+
