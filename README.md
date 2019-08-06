@@ -80,7 +80,7 @@ Messenger service
 * 248,423 rows 
 * Data includes Store_Name, Longitude, Latitude, Address, Address Line #2, City, State, Zip5, Zip4
 
-# Exclusive Dollar Store Data Nationwide: SNAP authorized dollar stores (2008-2018) compiled Jerry Shannon, Asst. Professor University of Georgia.
+# Exclusive Dollar Store Data Nationwide: SNAP authorized dollar stores (2008-2018) compiled by Jerry Shannon, Asst. Professor University of Georgia.
 #### (Contributor: Monica)
 * http://geography.uga.edu/directory/people/jerry-shannon
 * 32,291 rows
