@@ -1,5 +1,0 @@
-Combined multiyear CSV of number of establishments by county between 2012 and 2015.
-
-Move these Jupiter Notebook files into their matching Census Data files (such as Census_DollarGenEtc) for it to run.
-
-Original information sourced by querying NAICS codes from the American Fact Finder.
