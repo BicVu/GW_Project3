@@ -95,4 +95,4 @@ USDA defines Food Deserts as parts of the country vapid of fresh fruit, vegetabl
 
 Darkest color schemes on this map displays the largest Demographics of People Living in Food Deserts with low access to food.  At the same time, Dollar sign icons signifies the number of Dollar Stores per State. This map illustrates that a dollar store tends to open up in an economically depressed area, bringing affordable but unhealthy food choices. Dollar stores advertises hard-to-beat low prices accross the board, and provides no fresh produce and nutritious item. Therefore, pulling people living in Food Desert areas in a cycle of poverty and ill-health.
 
-![Data Dashboard/Overview](analysis/FoodDesert_DollarStore_Map.png)
+![Data Dashboard/Overview](Analysis/FoodDesert_DollarStore_Map.png)
