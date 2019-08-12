@@ -85,3 +85,11 @@ Messenger service
 * http://geography.uga.edu/directory/people/jerry-shannon
 * 32,291 rows
 * Data includes store_name, storeid, addr_num, addr_st, addr_add, city, state, zip5, store_type, stype_num, store_group, stgrp_num
+
+# Food Desert USA Map and Dollar Store Growth
+
+Website: https://public.tableau.com/profile/monica.zulueta.linsangan#!/vizhome/FD_v1/Dashboard1?publish=yes
+
+USDA defines Food Deserts as parts of the country vapid of fresh fruit, vegetables, and other healthful whole foods, usually found in impoverished areas. This is largely due to a lack of grocery stores, farmers’ markets, and healthy food providers. Source: http://americannutritionassociation.org/newsletter/usda-defines-food-deserts
+
+Darkest color schemes on this map displays the largest Demographics of People Living in Food Deserts with low access to food.  At the same time, Dollar sign icons signifies the number of Dollar Stores per State. This map illustrates that a dollar store tends to open up in an economically depressed area, bringing affordable but unhealthy food choices. Dollar stores advertises hard-to-beat low prices accross the board, and provides no fresh produce and nutritious item. Therefore, pulling people living in Food Desert areas in a cycle of poverty and ill-health.
