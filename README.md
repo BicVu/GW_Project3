@@ -86,7 +86,7 @@ Messenger service
 * 32,291 rows
 * Data includes store_name, storeid, addr_num, addr_st, addr_add, city, state, zip5, store_type, stype_num, store_group, stgrp_num
 
-# Food Desert USA Map and Dollar Store Growth
+# Food Desert USA Map and Dollar Store Map (both by counties)
 #### (Contributor: Monica)
 
 Website: https://public.tableau.com/profile/monica.zulueta.linsangan#!/vizhome/FD_v1/Dashboard1?publish=yes
