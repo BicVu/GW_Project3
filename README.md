@@ -101,3 +101,7 @@ Darkest color schemes on this map displays the largest Demographics of People Li
 #### (Contributor: Monica)
 SOURCE: https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/
 
+## Dollar Stores Growth
+#### (Contributor: Monica)
+dollar_stores_count.csv
+SOURCE: www.statista.com
