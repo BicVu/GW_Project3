@@ -1,0 +1,8 @@
+# Comparison
+# 2015 y-axis intercept:  [0.]
+# 2010 y-axis intercept:  [-0.]
+
+# 'D_Etab', 'D_Emp', 'D_Pay', 'G_Etab', 'G_Emp', 'G_Pay', 'Pop'
+#   0.28     0.98    -1.29      -0.59     1.86   -1.43     0.88      Year: 2015
+#   0.06     2.78    -3.14      -0.45     1.66   -1.01     0.86      Year: 2010
+
